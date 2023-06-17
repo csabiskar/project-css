@@ -1,0 +1,10 @@
+h2{
+  font-size: 40px;
+  background-color: limegreen;
+}
+p,h1{
+    background-color: yellowgreen;
+}
+*{
+    background-color: palegreen;
+}

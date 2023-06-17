@@ -1,0 +1,17 @@
+*{
+    background-color: teal;
+}
+#h2{
+    color: chartreuse;
+    background-color: blanchedalmond;
+}
+.p{
+    font-size: 15px;
+    color: gold;
+    background-color: plum;
+}
+pre,h3{
+    font-size: 26px;
+    color: white;
+    background-color: black;
+}
